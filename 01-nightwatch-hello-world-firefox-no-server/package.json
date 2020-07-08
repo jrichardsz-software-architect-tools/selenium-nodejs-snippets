@@ -4,7 +4,7 @@
   "description": "asda",
   "main": "test.js",
   "scripts": {
-    "test": "nightwatch -t google.js"
+    "test": "nightwatch -t $TEST_FILE"
   },
   "author": "",
   "license": "ISC",
